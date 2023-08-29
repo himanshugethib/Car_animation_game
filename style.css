@@ -40,8 +40,8 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
-    left: 444px;
-    bottom:30vh;
+    left: 10%;
+    bottom: 23%;
     animation: shake linear .3s infinite;
 
 }
